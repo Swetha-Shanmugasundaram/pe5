@@ -1,0 +1,3 @@
+language : jdk
+jdk:
+   -openjdk11
